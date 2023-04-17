@@ -1,4 +1,4 @@
-# Lanugaes
+# Languages
 * Know
 Python, LUA, CSS
 * Learning
