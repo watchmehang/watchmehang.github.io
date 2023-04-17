@@ -1,5 +1,4 @@
-# Languages
-* Know
+### Known
 Python, LUA, CSS
-* Learning
+### Learning
 HTML, C#
