@@ -1,5 +1,5 @@
 # Known
-python, lua, css
+Python, LUA, CSS
 
-## Learning
-hmtl, c#
+# Learning
+HTML, C#
