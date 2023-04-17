@@ -1,5 +1,7 @@
 # Coding Languages
 ### Known
-* Python, LUA, CSS
+* Python, LUA
 ### Learning
-* HTML, C#
+* HTML, CSS
+### Planned
+* C++, JavaScript
